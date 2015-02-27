@@ -1,0 +1,22 @@
+a:link, a:visited {}
+a:hover {}
+h1 {}
+h2 {}
+body > header {}
+nav ul {}
+.promo {}
+
+
+.main { width: 1020px; margin: 0 auto; outline: solid 1px red; background:green;}
+.latest { width: 640px; float: left; }
+.sidebar { width: 360px; float: right; }
+
+
+.media {}
+.media img {}
+footer {}
+
+
+.cf:before, .cf:after { content: " "; display: table; }
+.cf:after { clear: both; }
+.cf { *zoom: 1; } /* for IE6 and IE7 */
